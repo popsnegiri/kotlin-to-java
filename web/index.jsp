@@ -90,19 +90,16 @@
                     beforeSend: function (request) {
                         startLoading();
                     },
-                    url: "xml_to_binder_java",
+                    url: "get_kotlin_to_java",
                     data: {
-                        xml_data: kotlinData,
-                        root_view: $("input#iRootView").val(),
-                        data_model: $("input#iDataModel").val()
+                        kotlin_code: kotlinData
                     },
                     success: function (data) {
                         stopLoading();
                         console.log(data);
 
-
                         if (!data.error) {
-                            javaEditor.getDoc().setValue(data.data.output);
+                            javaEditor.getDoc().setValue(data.data.java_code);
                             $("p#error_message").text("");
                         } else {
                             $("p#error_message").text(data.message);

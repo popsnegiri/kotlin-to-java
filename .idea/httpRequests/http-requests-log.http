@@ -1,0 +1,198 @@
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=fun onCreate(savedInstanceState: Bundle?) {
+                super.onCreate(savedInstanceState)
+                setContentView(R.layout.keyframe_one)
+                constraintLayout = findViewById(R.id.constraint_layout) // member variable
+            }
+
+<> 2018-12-02T011231.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=fun onCreate(savedInstanceState: Bundle?) {
+                super.onCreate(savedInstanceState)
+                setContentView(R.layout.keyframe_one)
+                constraintLayout = findViewById(R.id.constraint_layout) // member variable
+            }
+
+<> 2018-12-02T011014.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=1
+
+<> 2018-12-02T010933.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=1
+
+<> 2018-12-02T010641.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=1
+
+<> 2018-12-02T010634.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code : 1
+
+<> 2018-12-02T010609-2.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code : 1
+
+<> 2018-12-02T010609-1.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code : 1
+
+<> 2018-12-02T010609.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code : 1
+
+<> 2018-12-02T010608.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code = 1
+
+<> 2018-12-02T010602.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+kotlin_code = 1
+
+<> 2018-12-02T010544.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+kotlin_code : 1
+
+<> 2018-12-02T010535.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+kotlin_code : 1
+
+<> 2018-12-02T010530.200.json
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+<> 2018-12-02T010511.200.json
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+
+kotlin_code:1
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+
+kotlin_code:1
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+
+kotlin_code = 1
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+
+kotlin_code = 1
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+
+form:1
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+Content-Type: application/json
+
+{}
+
+###
+
+POST http://localhost:8080/get_kotlin_to_java
+Content-Type: application/json
+
+{}
+
+###
+
+POST http://localhost:80/api/item
+Content-Type: application/json
+
+{}
+
+<> 2018-12-02T125044.404.html
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+###
+
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+###
+
+GET http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+
+###
+
+GET http://google.com
+
+<> 2018-12-02T120732.200.html
+
+###
+

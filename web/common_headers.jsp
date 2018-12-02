@@ -21,4 +21,3 @@
 <script src="//codemirror.net/addon/hint/show-hint.js"></script>
 <script src="//codemirror.net/mode/clike/clike.js"></script>
 <script src="//codemirror.net/addon/display/placeholder.js"></script>
-<link rel="stylesheet" href="style.css"/>

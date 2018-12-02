@@ -1,0 +1,11 @@
+POST http://localhost:8080/kotlin_to_java/get_kotlin_to_java
+Content-Type: application/x-www-form-urlencoded
+
+kotlin_code=fun onCreate(savedInstanceState: Bundle?) {
+                super.onCreate(savedInstanceState)
+                setContentView(R.layout.keyframe_one)
+                constraintLayout = findViewById(R.id.constraint_layout) // member variable
+            }
+
+
+###

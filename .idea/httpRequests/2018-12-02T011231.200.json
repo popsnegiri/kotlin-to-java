@@ -1,0 +1,8 @@
+{
+  "data": {
+    "java_code": "// Converted using j2k\nfun onCreate(savedInstanceState: Bundle?) {\n                super.onCreate(savedInstanceState)\n                setContentView(R.layout.keyframe_one)\n                constraintLayout = findViewById(R.id.constraint_layout) // member variable\n            }\n"
+  },
+  "error_code": 0,
+  "error": false,
+  "message": "Success"
+}
